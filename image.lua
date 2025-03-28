@@ -8,7 +8,7 @@ local imageLabel = Instance.new("ImageLabel")
 imageLabel.Size = UDim2.new(0, 600, 0, 400) -- Размер изображения
 imageLabel.Position = UDim2.new(0.5, -300, 0.5, -200) -- Центрируем
 imageLabel.BackgroundTransparency = 1 -- Прозрачный фон
-imageLabel.Image = "rbxassetid://119313863909590" -- Твой новый ID
+imageLabel.Image = "rbxassetid://109266841290408" -- Новый ID
 imageLabel.ImageTransparency = 1 -- Начинаем с полной прозрачности
 imageLabel.Parent = screenGui
 
