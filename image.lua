@@ -13,7 +13,7 @@ imageLabel.ImageTransparency = 1 -- Начинаем с полной прозр�
 imageLabel.Parent = screenGui
 
 -- Добавляем отладочный вывод
-print("ImageLabel создан с ID: rbxassetid://109266841290408")
+print("ImageLabel создан с ID: rbxassetid://129465758082117")
 
 -- Анимация появления (1 секунда)
 local tweenService = game:GetService("TweenService")
